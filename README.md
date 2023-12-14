@@ -1,2 +1,2 @@
 # friends
-Problem from friends 
+Problems from friends 
